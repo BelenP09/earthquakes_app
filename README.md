@@ -1,6 +1,6 @@
 # 🌍 earthquakes_app
 
-![earthquakes App ing](img\Eart.jpg)
+![earthquakes_app img](img\Eart.jpg)
 
 **earthquakes_app** es un dashboard interactivo y profesional para el análisis avanzado de actividad sísmica, desarrollado en Python con [Streamlit](https://streamlit.io/) y [Plotly](https://plotly.com/python/). Permite explorar, visualizar y analizar datos de terremotos a nivel mundial de manera intuitiva y flexible.
 
